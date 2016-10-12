@@ -10,7 +10,7 @@ Intended in tandem with an alphabet wall of LEDs.
 strangerCode.py
 ===============
 
-Run strangeCode.py to get a title screen and CLI input so you can specify the message you want to blink.
+Run strangerCode.py to get a title screen and CLI input so you can specify the message you want to blink.
 
 Also includes secret messages and sequences.
 
