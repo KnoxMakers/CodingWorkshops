@@ -22,3 +22,8 @@ morseCode.py
 Run morseCode.py for a CLI input so you can specify a message to blink on a single LED.
 
 Intended in tandem with a TV, keyboard, and an LED.
+
+UPDATE (05/30/2017)
+===================
+
+Alternate version that works with WordPress REST API being developed here: https://github.com/fractalexplorer/python-wp-rest-api
