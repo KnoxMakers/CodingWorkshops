@@ -1,5 +1,5 @@
 Contributors: knoxweb
-Tags: meetup, meetup post by wordpress ,meetup api
+Tags: meetup, meetup post by wordpress, meetup api, wordpress event
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
  
