@@ -16,3 +16,12 @@ You can give additional information which is only display only for the Meetup ev
 In Meetup Settings you can add one Meetup.com user's User API Key, a single Group ID for a valid Meetup.com Group that user has permissions to post new Meetup events to, and one Venue ID that can be found in Group Settings on Meetup.com.
 
 All users who can post Events will then be able to post as that Meetup.com user to that Group for the Venue selected.
+
+Step 1: Download all files as a ZIP.
+Step 2: Upload to WordPress as a plugin.
+Step 3: Login to Meetup.com.
+Step 4: Navigate here and grab your API key: https://secure.meetup.com/meetup_api/key/
+Step 5: Grab your Group ID from the URL (such as Mobile-WordPress-Development-Meetup )
+Step 6: Grab your Venue ID: https://www.meetup.com/{EnterYourGroupIDHere}/manage/settings/venues/
+Step 7: Enter that stuff from 4-6 here: http://{EnterYourWordPressDomainHere}/wp-admin/admin.php?page=meetup-general-settings
+Step 8: Post Events to WP and watch them post to Meetup.com.
